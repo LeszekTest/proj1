@@ -68,5 +68,9 @@
     <Build Include="Security\sch_security.sql" />
     <Build Include="Physical\fg_secondary.sql" />
     <Build Include="Physical\fg_secondary_file1.sql" />
+    <Build Include="faktury.sql" />
+    <Build Include="klienci.sql" />
+    <Build Include="LinniaFaktury.sql" />
+    <Build Include="Produkt.sql" />
   </ItemGroup>
 </Project>
